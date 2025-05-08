@@ -28,7 +28,7 @@ To set up the project, follow these steps:
     cd django-sample
     ```
 
-3. Once environment variable are set run below command
+3. Set database environment in settings.py and run below command
     ```bash
     pip install -r requirements.txt
     python manage.py makemigrations
