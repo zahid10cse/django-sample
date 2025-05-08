@@ -1,0 +1,32 @@
+# Nuxt dev/build outputs
+.output
+.data
+.nitro
+.cache
+dist
+..gitignore.swp
+
+static
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Local env files
+.env
+.env.*
+!.env.example
+
+
+.env
+.venv/*
+venv/*
+data/*
+.idea/*
+api/__pycache__/
+core/__pycache__/
+mixins/__pycache__/

@@ -1,4 +1,4 @@
-#!/home/zrana/Django/code-fusion/venv/bin/python3
+#!/var/www/Django/django-sample/venv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
